@@ -16,8 +16,8 @@ Run group_pipeline.ipynb last to generate combined features, train model, and sa
 
 Member roles
 
-IT001: PCA
-IT002: Data Transformation
+IT001: Class Imbalance
+IT002: PCA
 IT003: Encoding
 IT004: Outliers
 IT005: Scaling
